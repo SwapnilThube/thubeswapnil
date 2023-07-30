@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thubeswapnil Software Engineer
-- 👀 I’m interested in UI (.NET MAUI)
+- 👀 I’m Fullstack developer (.NET Core, MSSQL, Angular, React)
 - 🌱 I’m currently learning Cloud technology (Azure,AWS,GCP)
 
 
