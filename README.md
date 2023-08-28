@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thubeswapnil Software Engineer
+- 👋 Hi, I’m Swapnil Thube Software Engineer
 - 👀 I’m Fullstack developer (.NET Core, MSSQL, Angular, React)
 - 🌱 I’m currently learning Cloud technology (Azure,AWS,GCP)
 
